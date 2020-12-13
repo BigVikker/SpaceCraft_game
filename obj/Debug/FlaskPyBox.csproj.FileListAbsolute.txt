@@ -1,0 +1,11 @@
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\bin\Debug\FlaskPyBox.exe.config
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\bin\Debug\FlaskPyBox.exe
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\bin\Debug\FlaskPyBox.pdb
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.csprojAssemblyReference.cache
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.MainForm.resources
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.Properties.Resources.resources
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.csproj.GenerateResource.cache
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.csproj.CoreCompileInputs.cache
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.exe
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.pdb
+C:\Users\conso\source\repos\FlaskPyBox\FlaskPyBox\obj\Debug\FlaskPyBox.ScoreForm.resources
