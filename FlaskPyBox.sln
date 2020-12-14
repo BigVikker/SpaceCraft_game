@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaskPyBox", "FlaskPyBox\FlaskPyBox.csproj", "{A790B4F0-613F-4C42-9C3C-D06196AD349D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A790B4F0-613F-4C42-9C3C-D06196AD349D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A790B4F0-613F-4C42-9C3C-D06196AD349D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A790B4F0-613F-4C42-9C3C-D06196AD349D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A790B4F0-613F-4C42-9C3C-D06196AD349D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30AB4DC-B97B-4CAC-8D11-1F01E56EB462}
+	EndGlobalSection
+EndGlobal
